@@ -10,7 +10,7 @@ gem 'annotate', '2.4.0'
 
   group :development do
     gem 'rspec-rails', '2.6.0'
-    gem 'annotate-models', '1.0.4'
+    #gem 'annotate-models', '1.0.4'
     gem 'faker', '0.9.5'
   end
 
